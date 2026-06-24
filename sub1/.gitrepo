@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/pragdave-devo/sub1.git
+	branch = main
+	commit = 9ec07d0c223ab8a48087c792a90d075aa6cd1b76
+	parent = f162a86df33553f5c779db1c948ff7d2a586c576
+	method = merge
+	cmdver = 0.4.9
